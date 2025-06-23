@@ -1,8 +1,8 @@
 
 <div align="center">
   <img src="https://media.tenor.com/1Z9qRAN3o48AAAAd/code-coding.gif" width="300px">
-  <h2>Selam! Ben Efe 👋</h2>
-  <p>Discord botları ve geliştirici araçlar yapıyorum.</p>
+  <h2>Merhaba Ben Kentro👋</h2>
+  <p>Discord botları ve CMD tool yapıyorum..</p>
 </div>
 
 ---
