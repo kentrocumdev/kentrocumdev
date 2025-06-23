@@ -19,8 +19,8 @@
 
 ### 📈 GitHub İstatistiklerim
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EfeGokturk&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeGokturk&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kentrocumdev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentrocumdev&layout=compact&theme=tokyonight" />
 </div>
 
 ---
